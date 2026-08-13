@@ -28,7 +28,7 @@ A beautifully designed, interactive Todo List application built with React, Type
    `npm run dev`
 5. Open your web browser and visit the local host link provided in your terminal (usually `http://localhost:5173`).
 
-![Todo App Preview](./screenshots/todo-app-preview.png)
+![Todo App Preview](./assets/screenshot.png)
 
 ## Author
 
