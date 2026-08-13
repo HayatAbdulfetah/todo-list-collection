@@ -5,7 +5,8 @@ A beautifully designed, interactive Todo List application built with React, Type
 # 📸 Preview
 
 <p align="center">
-  <img src="./assets/screenshot.png" alt="Todo-List-Preview" width="600" />
+  <img src="./assets/screenshot.png" alt="Todo-List-Preview"
+ width="600" />
 </p>
 
 ## Features
@@ -33,7 +34,6 @@ A beautifully designed, interactive Todo List application built with React, Type
 4. Start the Vite development server by running:
    `npm run dev`
 5. Open your web browser and visit the local host link provided in your terminal (usually `http://localhost:5173`).
-
 
 ## Author
 
