@@ -5,7 +5,7 @@ A beautifully designed, interactive Todo List application built with React, Type
 # 📸 Preview
 
 <p align="center">
-  <img src="../assets/screenshot.png" alt="Todo-List-Preview" width="600" />
+  <img src="./assets/screenshot.png" alt="Todo-List-Preview" width="600" />
 </p>
 
 ## Features
