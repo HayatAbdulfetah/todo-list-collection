@@ -2,6 +2,11 @@
 
 A beautifully designed, interactive Todo List application built with React, TypeScript, and CSS. This project features a modern glassmorphism user interface set against a high-quality background, prioritizing clean aesthetics and high visibility.
 
+**Preview**
+<p align="center">
+  <img src="./assets/screenshot.png" alt="TypeScript Todo App Preview" width="600" />
+</p>
+
 ## Features
 
 - **CRUD Operations:** Easily add new tasks, edit existing ones, and delete tasks you no longer need.
@@ -28,7 +33,6 @@ A beautifully designed, interactive Todo List application built with React, Type
    `npm run dev`
 5. Open your web browser and visit the local host link provided in your terminal (usually `http://localhost:5173`).
 
-![Todo App Preview](./assets/screenshot.png)
 
 ## Author
 
