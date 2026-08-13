@@ -2,9 +2,10 @@
 
 A beautifully designed, interactive Todo List application built with React, TypeScript, and CSS. This project features a modern glassmorphism user interface set against a high-quality background, prioritizing clean aesthetics and high visibility.
 
-**Preview**
+# 📸 Preview
+
 <p align="center">
-  <img src="./assets/screenshot.png" alt="TypeScript Todo App Preview" width="600" />
+  <img src="../assets/screenshot.png" alt="Todo-List-Preview" width="600" />
 </p>
 
 ## Features
