@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kawaii TodoList</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Carter+One&family=Fredoka:wght@600&family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="todo-card">
+
+    <!-- Background Watermark -->
+    <img src="assets/background-bunny.jpg"
+        alt=""
+        class="watermark-bunny">
+
+    <!-- Heading -->
+    <h1>Kawaii TodoList</h1>
+
+    <!-- Input -->
+    <div class="input-section">
+
+        <input
+            id="taskInput"
+            type="text"
+            placeholder="Add your task">
+
+        <button type="button" class="add-btn" id="addBtn">
+    
+            <img src="assets/add.png" alt="Add">
+
+        </button>
+
+    </div>
+
+    <!-- Message -->
+    <p id="statusMsg" class="status-msg">
+        Tasks added successfully.
+    </p>
+
+    <!-- Todo List -->
+    <div id="taskList" class="list-container">
+
+    </div>
+
+    <!-- Bottom Bunny -->
+    <div class="bottom-mascot">
+
+        <img src="assets/bunny.png"
+            alt="Cute Bunny">
+
+    </div>
+
+</div>
+
+<script src="script.js" defer></script>
+
+</body>
+</html>
